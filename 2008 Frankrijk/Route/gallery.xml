@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<simpleviewerGallery maxImageWidth="800" maxImageHeight="800" textColor="0x0000ff" frameColor="0xffffff" frameWidth="1" stagePadding="35" thumbnailColumns="10" thumbnailRows="1" navPosition="top" title="Kaart" enableRightClickOpen="false" backgroundImagePath="ext/porta_sv.swf" imagePath="medium/" thumbPath="small/">
+  <image>
+    <name>0001.jpg</name>
+    <caption><![CDATA[<a target="_blank" href="large/0001.jpg"><u>Zoom</u></a>]]></caption>
+  </image>
+  <image>
+    <name>0002.jpg</name>
+    <caption><![CDATA[<a target="_blank" href="large/0002.jpg"><u>Zoom</u></a>]]></caption>
+  </image>
+  <image>
+    <name>0003.jpg</name>
+    <caption><![CDATA[<a target="_blank" href="large/0003.jpg"><u>Zoom</u></a>]]></caption>
+  </image>
+  <image>
+    <name>0004.jpg</name>
+    <caption><![CDATA[<a target="_blank" href="large/0004.jpg"><u>Zoom</u></a>]]></caption>
+  </image>
+  <image>
+    <name>0005.jpg</name>
+    <caption><![CDATA[<a target="_blank" href="large/0005.jpg"><u>Zoom</u></a>]]></caption>
+  </image>
+  <image>
+    <name>0006.jpg</name>
+    <caption><![CDATA[<a target="_blank" href="large/0006.jpg"><u>Zoom</u></a>]]></caption>
+  </image>
+  <image>
+    <name>0007.jpg</name>
+    <caption><![CDATA[<a target="_blank" href="large/0007.jpg"><u>Zoom</u></a>]]></caption>
+  </image>
+</simpleviewerGallery>

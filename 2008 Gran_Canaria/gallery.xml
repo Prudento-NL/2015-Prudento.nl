@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<simpleviewerGallery maxImageWidth="800" maxImageHeight="800" textColor="0x0000ff" frameColor="0xffffff" frameWidth="1" stagePadding="35" thumbnailColumns="10" thumbnailRows="1" navPosition="top" title="2008-11 Playa del Ingles Gran Canaria" enableRightClickOpen="false" backgroundImagePath="ext/porta_sv.swf" imagePath="medium/" thumbPath="small/">
+  <image>
+    <name>01 Hotel-001.jpg</name>
+    <caption><![CDATA[01 Hotel]]></caption>
+  </image>
+  <image>
+    <name>02 Playa del Ingles-002.jpg</name>
+    <caption><![CDATA[02 Playa del Ingles]]></caption>
+  </image>
+  <image>
+    <name>03 Duinen richting Playa de MasPalomas-003.jpg</name>
+    <caption><![CDATA[03 Duinen richting Playa de MasPalomas]]></caption>
+  </image>
+  <image>
+    <name>04 Playa del Ingles-004.jpg</name>
+    <caption><![CDATA[04 Playa del Ingles]]></caption>
+  </image>
+  <image>
+    <name>05 Playa del Ingles-005.jpg</name>
+    <caption><![CDATA[05 Playa del Ingles]]></caption>
+  </image>
+  <image>
+    <name>06 Playa del Ingles-006.jpg</name>
+    <caption><![CDATA[06 Playa del Ingles]]></caption>
+  </image>
+  <image>
+    <name>07 Cita Playa del Ingles-007.jpg</name>
+    <caption><![CDATA[07 Cita Playa del Ingles]]></caption>
+  </image>
+  <image>
+    <name>08 Cita Playa del Ingles-008.jpg</name>
+    <caption><![CDATA[08 Cita Playa del Ingles]]></caption>
+  </image>
+  <image>
+    <name>09 Uitzicht hotel kamer-009.jpg</name>
+    <caption><![CDATA[09 Uitzicht hotel kamer]]></caption>
+  </image>
+  <image>
+    <name>10 Het balkon-010.jpg</name>
+    <caption><![CDATA[10 Het balkon]]></caption>
+  </image>
+  <image>
+    <name>11 Wandeling naar Playa de Maspalomas-011.jpg</name>
+    <caption><![CDATA[11 Wandeling naar Playa de Maspalomas]]></caption>
+  </image>
+  <image>
+    <name>12 Playa de Maspalomas-012.jpg</name>
+    <caption><![CDATA[12 Playa de Maspalomas]]></caption>
+  </image>
+  <image>
+    <name>13 Playa de Maspalomas-013.jpg</name>
+    <caption><![CDATA[13 Playa de Maspalomas]]></caption>
+  </image>
+  <image>
+    <name>14 Playa de Maspalomas-014.jpg</name>
+    <caption><![CDATA[14 Playa de Maspalomas]]></caption>
+  </image>
+  <image>
+    <name>15 Playa de Maspalomas-015.jpg</name>
+    <caption><![CDATA[15 Playa de Maspalomas]]></caption>
+  </image>
+  <image>
+    <name>16 Playa de Maspalomas-016.jpg</name>
+    <caption><![CDATA[16 Playa de Maspalomas]]></caption>
+  </image>
+  <image>
+    <name>17 Playa de Maspalomas-017.jpg</name>
+    <caption><![CDATA[17 Playa de Maspalomas]]></caption>
+  </image>
+  <image>
+    <name>18 Salamandertje-018.jpg</name>
+    <caption><![CDATA[18 Salamandertje]]></caption>
+  </image>
+  <image>
+    <name>19 Salamandertje-019.jpg</name>
+    <caption><![CDATA[19 Salamandertje]]></caption>
+  </image>
+  <image>
+    <name>20 Salamandertje-020.jpg</name>
+    <caption><![CDATA[20 Salamandertje]]></caption>
+  </image>
+  <image>
+    <name>21 Eten met Nico, Marijke, Suzan en Leo-021.jpg</name>
+    <caption><![CDATA[21 Eten met Nico, Marijke, Suzan en Leo]]></caption>
+  </image>
+  <image>
+    <name>22 Eten met Nico, Marijke, Suzan en Leo-022.jpg</name>
+    <caption><![CDATA[22 Eten met Nico, Marijke, Suzan en Leo]]></caption>
+  </image>
+  <image>
+    <name>23 Puerto de Mogan-023.jpg</name>
+    <caption><![CDATA[23 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>24 Visjes-024.jpg</name>
+    <caption><![CDATA[24 Visjes]]></caption>
+  </image>
+  <image>
+    <name>25 Visjes-025.jpg</name>
+    <caption><![CDATA[25 Visjes]]></caption>
+  </image>
+  <image>
+    <name>26 Krabbetje-026.jpg</name>
+    <caption><![CDATA[26 Krabbetje]]></caption>
+  </image>
+  <image>
+    <name>27 Puerto de Mogan-027.jpg</name>
+    <caption><![CDATA[27 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>28 Puerto de Mogan-028.jpg</name>
+    <caption><![CDATA[28 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>29 Puerto de Mogan-029.jpg</name>
+    <caption><![CDATA[29 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>30 Visjes-030.jpg</name>
+    <caption><![CDATA[30 Visjes]]></caption>
+  </image>
+  <image>
+    <name>31 Puerto de Mogan-031.jpg</name>
+    <caption><![CDATA[31 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>32 Puerto de Mogan-032.jpg</name>
+    <caption><![CDATA[32 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>33 Puerto de Mogan-033.jpg</name>
+    <caption><![CDATA[33 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>34 Puerto de Mogan-034.jpg</name>
+    <caption><![CDATA[34 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>35 Puerto de Mogan-035.jpg</name>
+    <caption><![CDATA[35 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>36 Puerto de Mogan-036.jpg</name>
+    <caption><![CDATA[36 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>37 Puerto de Mogan-037.jpg</name>
+    <caption><![CDATA[37 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>38 Puerto de Mogan-038.jpg</name>
+    <caption><![CDATA[38 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>39 Puerto de Mogan-039.jpg</name>
+    <caption><![CDATA[39 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>40 Puerto de Mogan-040.jpg</name>
+    <caption><![CDATA[40 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>41 Puerto de Mogan-041.jpg</name>
+    <caption><![CDATA[41 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>42 Puerto de Mogan-042.jpg</name>
+    <caption><![CDATA[42 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>43 Puerto de Mogan-043.jpg</name>
+    <caption><![CDATA[43 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>44 Puerto de Mogan-044.jpg</name>
+    <caption><![CDATA[44 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>45 Puerto de Mogan-045.jpg</name>
+    <caption><![CDATA[45 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>46 Puerto de Mogan-046.jpg</name>
+    <caption><![CDATA[46 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>47 Gitaar-047.jpg</name>
+    <caption><![CDATA[47 Gitaar]]></caption>
+  </image>
+  <image>
+    <name>48 Crepes banana-048.jpg</name>
+    <caption><![CDATA[48 Crepes banana]]></caption>
+  </image>
+  <image>
+    <name>49 Moi-049.jpg</name>
+    <caption><![CDATA[49 Moi]]></caption>
+  </image>
+  <image>
+    <name>50 Panorama 1 Puerto de Mogan-050.jpg</name>
+    <caption><![CDATA[50 Panorama 1 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>51 Puerto de Mogan-051.jpg</name>
+    <caption><![CDATA[51 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>52 Puerto de Mogan-052.jpg</name>
+    <caption><![CDATA[52 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>53 Puerto de Mogan-053.jpg</name>
+    <caption><![CDATA[53 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>54 Puerto de Mogan-054.jpg</name>
+    <caption><![CDATA[54 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>55 Puerto de Mogan-055.jpg</name>
+    <caption><![CDATA[55 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>56 Puerto de Mogan-056.jpg</name>
+    <caption><![CDATA[56 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>57 Puerto de Mogan-057.jpg</name>
+    <caption><![CDATA[57 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>58 Puerto de Mogan-058.jpg</name>
+    <caption><![CDATA[58 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>59 Puerto de Mogan-059.jpg</name>
+    <caption><![CDATA[59 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>60 Puerto de Mogan-060.jpg</name>
+    <caption><![CDATA[60 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>61 Puerto de Mogan-061.jpg</name>
+    <caption><![CDATA[61 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>62 Panorama 2 Puerto de Mogan-062.jpg</name>
+    <caption><![CDATA[62 Panorama 2 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>63 Puerto de Mogan-063.jpg</name>
+    <caption><![CDATA[63 Puerto de Mogan]]></caption>
+  </image>
+  <image>
+    <name>64 Bushalte-064.jpg</name>
+    <caption><![CDATA[64 Bushalte]]></caption>
+  </image>
+  <image>
+    <name>65 Bus-065.jpg</name>
+    <caption><![CDATA[65 Bus]]></caption>
+  </image>
+  <image>
+    <name>66 Bushalte-066.jpg</name>
+    <caption><![CDATA[66 Bushalte]]></caption>
+  </image>
+  <image>
+    <name>67 Hotel-067.jpg</name>
+    <caption><![CDATA[67 Hotel]]></caption>
+  </image>
+  <image>
+    <name>68 Hotel-068.jpg</name>
+    <caption><![CDATA[68 Hotel]]></caption>
+  </image>
+  <image>
+    <name>69 Hotel-069.jpg</name>
+    <caption><![CDATA[69 Hotel]]></caption>
+  </image>
+</simpleviewerGallery>
