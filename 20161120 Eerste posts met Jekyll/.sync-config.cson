@@ -1,0 +1,20 @@
+remote:
+  host: "ssh.prudento.nl"
+  user: "prudento.nl"
+  path: "/www/"
+behaviour:
+  uploadOnSave: true
+  syncDownOnOpen: true
+  forgetConsole: false
+  autoHideConsole: false
+  alwaysSyncAll: false
+option:
+  deleteFiles: false
+  exclude: [
+    ".sync-config.cson"
+    ".git"
+    "node_modules"
+    "tmp"
+    "vendor"
+    "keuken"
+  ]
